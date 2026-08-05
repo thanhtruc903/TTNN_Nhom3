@@ -41,7 +41,7 @@ python run.py
 | **CSKH** | `cs` | `Cs@123456` |
 | **Nhân viên kho** | `warehouse` | `Kho@12345` |
 
-## 🔌 API Core
+## API Core
 
 Hệ thống cung cấp các API chuẩn (luôn trả về `data` và `meta`) cho các nghiệp vụ:
 
