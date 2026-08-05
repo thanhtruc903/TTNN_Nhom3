@@ -58,4 +58,3 @@ Hệ thống cung cấp các API chuẩn (luôn trả về `data` và `meta`) ch
   - `Anh_Thu`: Frontend, UI/UX, responsive và trải nghiệm người dùng.
   - `Le_Thao`: Backend, Database, transaction và toàn vẹn tồn kho.
   - `Thanh_Truc`: Phân tích yêu cầu, acceptance, báo cáo và tài liệu. 
-*(Nhánh `main` là sản phẩm tích hợp, giữ nguyên bằng chứng đóng góp của cả 3 thành viên).*
