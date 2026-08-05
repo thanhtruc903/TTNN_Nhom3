@@ -4,9 +4,6 @@ Hệ thống quản lý kho thống nhất của nhóm, xây dựng bằng Flask
 Alembic. Ứng dụng chạy ngay với SQLite để chấm/demo và hỗ trợ SQL Server 2022
 qua `DATABASE_URL`. Không cần Internet, CDN hoặc deployment để sử dụng.
 
-Repository bàn giao chính thức:
-<https://github.com/xandrosworld/28.7.AnhThu.Xinh.Cute>
-
 ## Chức năng
 
 - Đăng nhập, session, mật khẩu băm, CSRF, audit và phân quyền phía server cho
